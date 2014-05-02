@@ -16,5 +16,5 @@ def bruteforcestringmatch(my_str,wan_str):
 
 if __name__ == "__main__":
     test_str = "41kga34s3"
-    want_str = "34s"
+    want_str = "334s"
     print bruteforcestringmatch(test_str,want_str)
